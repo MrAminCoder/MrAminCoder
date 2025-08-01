@@ -1,14 +1,14 @@
-<!-- هدر -->
+<!--amin-->
 <h1 align="center">ⲀⲘⲒⲚ | MrAminCoder</h1>
 
-<!-- انیمیشن تایپی -->
+<!--amin-->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Welcome+To+My+GitHub+%7C+%E2%B2%80%E2%B2%98%E2%B2%92%E2%B2%9A" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🧠 Tech Stack
+## مهارت ها !
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -19,7 +19,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## امار گیت هاب !
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MrAminCoder&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
@@ -30,7 +30,7 @@
 
 ---
 
-## 📱 Contact
+## ارتباط با من !
 
 <p align="center">
   <a href="https://t.me/iemrz">
@@ -44,5 +44,5 @@
 ---
 
 <p align="center">
-  ⚡ از بازدیدت ممنونم! اگه خوشت اومد یه ستاره بهم بده ⭐
+برای ارتباط به من کلیک کن  👆
 </p>
