@@ -36,9 +36,6 @@
   <a href="https://t.me/iemrz">
     <img src="https://img.shields.io/badge/Telegram-iemrz-2ca5e0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://rubika.ir/imcoder">
-    <img src="https://img.shields.io/badge/Rubika-imcoder-blueviolet?style=for-the-badge&logo=messenger&logoColor=white"/>
-  </a>
 </p>
 
 ---
